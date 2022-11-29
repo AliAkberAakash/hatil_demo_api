@@ -3,37 +3,43 @@
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "Ebony Chair",
 			"image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 29.00
+			"price": 29.00,
+			"items": 5
 		},
 		{
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "White Chair",
 			"image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 35.00
+			"price": 35.00,
+			"items": 3
 		},
 		{
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "Dvan",
 			"image": "https://images.unsplash.com/photo-1540638349517-3abd5afc5847?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 35.00
+			"price": 35.00,
+			"items": 2
 		},
 		{
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "Divan",
 			"image": "https://images.unsplash.com/photo-1540638349517-3abd5afc5847?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 35.00
+			"price": 35.00,
+			"items": 10
 		},
 		{
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "Reading Table",
 			"image": "https://images.unsplash.com/photo-1613252036716-e1efc9788e5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 35.00
+			"price": 35.00,
+			"items": 7
 		},
 		{
 			"id": "sgs-16sg-0shs-17y2h",
 			"name": "Comfy Sofa",
 			"image": "https://images.unsplash.com/photo-1611967164521-abae8fba4668?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-			"price": 35.00
+			"price": 35.00,
+			"items": 2
 		}
 	]
 }
